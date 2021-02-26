@@ -1,0 +1,16 @@
+.list ol{
+list-style: none;
+}
+.listStyle{
+   display: flex;
+   flex-direction: row;
+   justify-content: left;
+   align-items: center;
+}
+.btn{
+   
+}
+.delete{
+    
+   
+  }
